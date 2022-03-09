@@ -19,7 +19,7 @@ install_requirements = [
 ]
 
 setup(
-    name='django-pwa',
+    name='django4-pwa',
     version='1.0.10',
     packages=find_packages(),
     install_requires=install_requirements,
@@ -28,7 +28,7 @@ setup(
     description=short_description,
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='http://github.com/silviolleite/django-pwa',
+    url='http://github.com/notaigbe/django-pwa',
     author='Silvio Luis',
     author_email='silviolleite@gmail.com',
     classifiers=[
